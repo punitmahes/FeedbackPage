@@ -347,6 +347,7 @@ void _ModalBottomSheet(context) {
                       'Submit',
                       textAlign: TextAlign.center,
                       style: TextStyle(color: Colors.white),
+                      
                     )),
               ),
             ]),
